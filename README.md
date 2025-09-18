@@ -1,8 +1,8 @@
-## Res-SwinFusion, a Deep Learning Model for Automatic Localization of Anatomical Landmarks in X-rays to Assist in Diagnosis and Surgical Planning.
+## Res-SwinFusion to Automatic Localization of Anatomical Landmarks in X-rays to Assist in Diagnosis and Surgical Planning.
 
 ![本地图片描述](Data/Network.png)
 
-## Data Preparation:
+## Data Preparation
 Download the [head](https://figshare.com/s/37ec464af8e81ae6ebbf), [hand](https://ipilab.usc.edu/research/baaweb) datasets.
 
 Prepare datasets in the following directory structure. Take the head dataset as an example.
@@ -14,7 +14,7 @@ Prepare datasets in the following directory structure. Take the head dataset as 
     * RawImage      
     	* \*.bmp
   
- ## Examples:
+ ## Experiment
 ![本地图片描述](Data/Example.png)
 
 
