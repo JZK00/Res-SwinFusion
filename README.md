@@ -14,10 +14,8 @@ Prepare datasets in the following directory structure. Take the head dataset as 
     	* \*.bmp
   
  ## Examples:
-<div align="center">
-  ![本地图片描述](Data/Network.png)
-</div>
-<p align="center">
+![本地图片描述](Data/Network.png)
+
 
 <div align="center">
   ![本地图片描述](Data/Example.png)
